@@ -1,7 +1,7 @@
 Hi, my name is Deeksha Singh!
 
 ## About Me
-I am a passionate developer currently working on Front-End Development. I have experience in Artificial Intelligence and Cloud Computing.
+I am a passionate developer currently working on Front-End Development (mainly the UI/UX aspects). I have experience in Artificial Intelligence and Cloud Computing.
 
 ## GitHub
 You can find me on GitHub at https://github.com/deekshaaah
